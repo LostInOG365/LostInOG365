@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello, I am a budding IT specialist for application development 👋
 
-<!--
-**LostInOG365/LostInOG365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am currently retraining as an IT specialist for application development and am about to take my final exam, part 1 (AP1). I am particularly interested in **customizing CRM/ERP software**.
 
-Here are some ideas to get you started:
+## 🔍 Internship wanted
+I am looking for a mandatory internship as part of my retraining. I am particularly interested in:
+- Customizing and adapting CRM/ERP systems
+- Software development in a business environment
+- Data analytics and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Location: Throughout Germany
+
+## Technologies & Tools
+Programming languages:
+- Python (including Pandas for data analytics)
+- Java
+- PHP
+- HTML & CSS
+- SQL (relational databases)
+- R (basic knowledge)
+
+Tools & Frameworks:
+- Power BI
+- Git & GitHub
+
+## Focus Areas
+- 🔧 Customizing CRM/ERP systems
+- 📊 Data analytics
+- 🌐 Web development
+
+## Current
+- Preparing for AP1
+- Developing a website (local project)
+- Deepening my knowledge of Java
+
+## What I'm looking for
+I am looking for opportunities to apply and further develop my knowledge of business software and its customization in a practical setting.
+
+---
+💼 This profile serves to document my learning progress and projects.

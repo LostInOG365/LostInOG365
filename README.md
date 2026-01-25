@@ -1,19 +1,18 @@
 # Hello, I am a budding IT specialist for application development 👋
 
 ## About me
-I am currently retraining as an IT specialist for application development and am about to take my final exam, part 1 (AP1). I am particularly interested in **customizing CRM/ERP software**.
+I am currently retraining as an IT specialist for application development and am about to take my final exam, part 1 (AP1) in February 2026. I am particularly interested in **customizing CRM/ERP software**.
 
 ## 🔍 Internship wanted
 I am looking for a mandatory internship as part of my retraining. I am particularly interested in:
 - Customizing and adapting CRM/ERP systems
 - Software development in a business environment
-- Data analytics and reporting
 
 Location: Throughout Germany
 
 ## Technologies & Tools
 Programming languages:
-- Python (including Pandas for data analytics)
+- Python (including Pandas)
 - Java
 - PHP
 - HTML & CSS
@@ -26,7 +25,6 @@ Tools & Frameworks:
 
 ## Focus Areas
 - 🔧 Customizing CRM/ERP systems
-- 📊 Data analytics
 - 🌐 Web development
 
 ## Current
